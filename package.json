@@ -1,0 +1,20 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariyanto17/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariyanto17/node.js/issues"
+  },
+  "homepage": "https://github.com/Ariyanto17/node.js#readme"
+}
